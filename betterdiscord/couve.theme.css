@@ -13,7 +13,7 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #419e85;
+  --main-color: #27c055;
 
   /* Borders */
   --avatar-radius: 8px;
@@ -22,11 +22,11 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #252a3e;
-  --background-secondary: #1e2337;
-  --background-secondary-alt: #1c2438;
-  --background-secondary-alt-alt: #1b1d31;
-  --background-tertiary: #060c24;
+  --background-primary: #202020;
+  --background-secondary: #1b1b1b;
+  --background-secondary-alt: #272727;
+  --background-secondary-alt-alt: #202020;
+  --background-tertiary: #181716;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
@@ -70,4 +70,5 @@
   /* Other stuff */
   --textcolor: #000;
   --epicshadow1: #0003;
+
 }
